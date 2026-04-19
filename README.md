@@ -35,7 +35,7 @@ pycryptodome
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/crackkillz/edge_password_recovery.git
-cd edge-password-recovery
+cd edge_password_recovery
 ```
 
 ### 2. Install Required Packages
